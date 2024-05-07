@@ -1,4 +1,4 @@
-# ComPRePS-HPG
+# Multi-Compartment-Segmentation-HPG
 
 ## For Multicompartment segmentation - inference 
 
@@ -34,7 +34,7 @@ git clone -b add_reference_features https://github.com/SarderLab/Multi-Compartme
     
     b- Output directory ./output
     
-    c- Copy the slurm file slurm_predicting.sh
+    c- Copy the slurm file slurm_ref_feature.sh
 
 3- Update the directories and variables in the Slurm script to reflect the location of the model and sif
 
